@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE_URL = 'https://stocktaking-app.azurewebsites.net/';
+const BASE_URL = 'https://transaction-manager-api.herokuapp.com/';
 
 export const axiosPrivate = axios.create({
 	baseURL: BASE_URL,
