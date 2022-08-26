@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE_URL = 'https://transaction-manager-api.herokuapp.com/';
+const BASE_URL = 'https://stocktaking-api.onrender.com';
 
 export const axiosPrivate = axios.create({
 	baseURL: BASE_URL,
