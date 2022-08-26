@@ -2,7 +2,9 @@
 
 Client-side app for managing personal budget
 
-### [LAUNCH](https://devtsp.github.io/stocktaking-client)
+### [LAUNCH](https://stocktaking-client.vercel.app/)
+
+Server side code [HERE](https://github.com/devtsp/stocktaking-server)
 
 This repo contains a client-side app to allow authenticated users to handle/keep track of personal budget through CRUD operations against the backend API.
 
